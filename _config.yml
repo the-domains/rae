@@ -1,0 +1,28 @@
+name: rae
+favicon: null
+layout_spectrum: 0.36600488936528563
+typography_spectrum: 0.04917769809253514
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.47250523162074387
+  lightness: 0.0731220378074795
+  saturation: 0.2556508919224143
+  rhythmicContrast: 0.4352140894625336
+purpose: []
