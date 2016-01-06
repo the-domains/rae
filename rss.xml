@@ -4,10 +4,18 @@
         <description><![CDATA[rae]]></description>
         <link>https://thegrid.ai/rae/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jan 2016 15:37:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jan 2016 15:41:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rae/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[About]]></title>
+            <description><![CDATA[<article><h1>About</h1><p>I love...</p></article>]]></description>
+            <link>https://thegrid.ai/rae/about/index.html</link>
+            <guid isPermaLink="false">14e575a3-7413-4ac9-83fe-875c69f32969</guid>
+            <pubDate>Wed, 06 Jan 2016 15:41:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Typically there is only one flavour of emotion accepted at work; the positive kind. So much so that there are articles like </p>]]></description>
             <link>https://thegrid.ai/rae/81488de9-2f85-42b5-baf1-f14941d9eefb/index.html</link>
             <guid isPermaLink="false">81488de9-2f85-42b5-baf1-f14941d9eefb</guid>
             <pubDate>Wed, 06 Jan 2016 15:37:20 GMT</pubDate>
