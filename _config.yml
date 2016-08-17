@@ -1,7 +1,7 @@
 name: rae
 favicon: null
-layout_spectrum: 0.86242
-typography_spectrum: 1
+layout_spectrum: 0.00087
+typography_spectrum: 0.12716
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#313058'
-    - '#ffffff'
-    - '#a4a5fe'
-    - '#e6bdcd'
-  brandStrength: 0.75
-  lightness: 0.0731220378074795
-  saturation: 0.2556508919224143
-  rhythmicContrast: 0.4352140894625336
+    - '#3e3a3b'
+    - '#fbe1d4'
+    - '#1f160d'
+    - '#636469'
+    - '#9e979e'
+  brandStrength: 0.5
+  lightness: 0.8125
+  saturation: 1
+  rhythmicContrast: 0.5
 purpose: []
